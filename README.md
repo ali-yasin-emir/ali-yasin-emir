@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ali-yasin-emir&show_icons=true">
 
-# Merhaba, ben Ali Yasin Emir!
+# Hello, I'm Ali Yasin Emir!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-yasin-emir" alt="ali-yasin-emir" /> </p>
 
