@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=ali-yasin-emir)]
+
 # Hello, I'm Ali Yasin Emir!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-yasin-emir" alt="ali-yasin-emir" /> </p>
