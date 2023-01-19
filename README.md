@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ali-yasin-emir=anuraghazra&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?ali-yasin-emir=anuraghazra&show_icons=true">
 # Hello, I'm Ali Yasin Emir!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-yasin-emir" alt="ali-yasin-emir" /> </p>
